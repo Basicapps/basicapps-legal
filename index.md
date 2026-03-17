@@ -5,4 +5,4 @@
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
 
-For support, contact us at support@basicapps.io
+For support, contact us at [support@basicapps.tech](mailto:support@basicapps.tech)
