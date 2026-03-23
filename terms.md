@@ -1,7 +1,7 @@
 # Terms of Use
 
 **Basic Checkbook**
-**Last updated: March 15, 2026**
+**Last updated: March 23, 2026**
 
 Please read these Terms of Use ("Terms") carefully before using the Basic Checkbook mobile application (the "App") operated by Basic Apps ("we," "our," or "us"). By downloading or using the App, you agree to be bound by these Terms.
 
@@ -27,8 +27,8 @@ Basic Checkbook is a personal finance management application that allows you to 
 The App is available for free with limited features, including one account.
 
 ### Premium Subscription
-Additional features are available through a monthly auto-renewing subscription:
-- **Price:** $1.99 per month (prices may vary by region)
+Additional features are available through an annual auto-renewing subscription:
+- **Price:** $23.99 per year (prices may vary by region)
 - **Billing:** Payment is charged to your Apple ID account at confirmation of purchase
 - **Renewal:** Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
 - **Cancellation:** You may cancel at any time through your iPhone Settings → Apple ID → Subscriptions. Cancellation takes effect at the end of the current billing period; you will retain access to premium features until that date
@@ -92,7 +92,7 @@ We may update these Terms from time to time. We will notify you of material chan
 
 ## 10. Governing Law
 
-These Terms are governed by the laws of the United States and the State of [Your State], without regard to conflict of law principles. Any disputes arising under these Terms shall be resolved in the courts of [Your State].
+These Terms are governed by the laws of the United States and the State of Pennsylvania, without regard to conflict of law principles. Any disputes arising under these Terms shall be resolved in the courts of Pennsylvania.
 
 ---
 
