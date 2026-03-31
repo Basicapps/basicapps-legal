@@ -101,7 +101,7 @@ These Terms are governed by the laws of the United States and the State of Penns
 If you have questions about these Terms, please contact us:
 
 **Basic Apps**
-Email: support@basicapps.io
+Email: support@basicapps.tech
 
 ---
 
